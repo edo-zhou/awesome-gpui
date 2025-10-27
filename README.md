@@ -79,7 +79,7 @@ fn main() {
 ## Blog Posts
 
 - [Ownership and Data Flow in GPUI](https://zed.dev/blog/gpui-ownership) - In-depth description of how ownership works in GPUI using models, including how to emit and consume events
-- [Why the big rewrite?](https://zed.dev/blog/why-th·e-big-rewrite) - Blog post on the reasons for going to the tailwind-inspired API
+- [Why the big rewrite?](https://zed.dev/blog/why-the-big-rewrite) - Blog post on the reasons for going to the tailwind-inspired API
 - [Unofficial Documentation](https://github.com/Himasnhu-AT/GPUI-docs-unofficial) - An attempt at unofficial documentation for GPUI
 
 ## Videos
