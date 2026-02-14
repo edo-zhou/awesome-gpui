@@ -34,6 +34,7 @@ English | [中文](README.md)
 ## Component Libraries
 
 - [gpui-component](https://github.com/longbridge/gpui-component) - A growing library of UI components (Accordion, Button, DatePicker, Calendar, Modal, Table, etc.) for building desktop apps with GPUI
+- [adabraka-ui](https://github.com/Augani/adabraka-ui) - A ui component library for building desktop applications in rust  
 
 ## Tutorials
 
