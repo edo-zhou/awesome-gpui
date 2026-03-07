@@ -71,6 +71,7 @@ fn main() {
 - [zed](https://github.com/zed-industries/zed) - A high-performance, multiplayer code editor built with GPUI
 - [Loungy](https://github.com/MatthiasGrandl/Loungy) - An application launcher built with GPUI
 - [Helix GPUI](https://github.com/polachok/helix-gpui) - Helix editor implementation using GPUI
+- [hunk](https://github.com/niteshbalusu11/hunk): A cross platform and super fast diff viewer and Codex orchestrator.
 - [GPUI Calculator](https://github.com/kriskw1999/gpui-calculator) - A calculator app built with GPUI
 - [GPUI Counter](https://github.com/derrickpersson/gpui-simple-counter) - A simple GPUI counter example
 - [GPUI Memory Game](https://github.com/justjavac/gpui-memory-game) - A memory matching game built with Rust and GPUI
