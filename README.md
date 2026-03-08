@@ -2,7 +2,7 @@
 
 > A curated list of GPUI resources, libraries, tutorials and tools
 
-English | [中文](README.md)
+English | [中文](README_CN.md)
 
 [GPUI](https://www.gpui.rs/) is a hybrid immediate- and retained-mode, GPU-accelerated UI framework for Rust developed by the creators of [Zed](https://zed.dev/).
 
