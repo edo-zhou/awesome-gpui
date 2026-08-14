@@ -67,6 +67,7 @@ fn main() {
 ## 项目案例
 
 - [zed](https://github.com/zed-industries/zed) - 使用GPUI构建的高性能、多人协作代码编辑器
+- [Waku](https://github.com/egoist/waku) - 使用Rust和GPUI构建、面向本地编码智能体的快速原生桌面应用
 - [Loungy](https://github.com/MatthiasGrandl/Loungy) - 基于GPUI的应用启动器
 - [Helix GPUI](https://github.com/polachok/helix-gpui) - 使用GPUI实现的Helix编辑器
 - [GPUI Calculator](https://github.com/kriskw1999/gpui-calculator) - 使用GPUI构建的计算器应用

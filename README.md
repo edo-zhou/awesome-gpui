@@ -69,6 +69,7 @@ fn main() {
 ## Projects
 
 - [zed](https://github.com/zed-industries/zed) - A high-performance, multiplayer code editor built with GPUI
+- [Waku](https://github.com/egoist/waku) - A fast, native desktop app for working with local coding agents, built with Rust and GPUI
 - [Loungy](https://github.com/MatthiasGrandl/Loungy) - An application launcher built with GPUI
 - [Helix GPUI](https://github.com/polachok/helix-gpui) - Helix editor implementation using GPUI
 - [hunk](https://github.com/niteshbalusu11/hunk): A cross platform and super fast diff viewer and Codex orchestrator.
