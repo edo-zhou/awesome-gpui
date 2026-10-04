@@ -79,6 +79,7 @@ fn main() {
 - [Hummingbird](https://github.com/143mailliw/hummingbird) - A modern music player written in Rust using GPUI, designed to be performant and lightweight with FLAC, MP3, OGG and WAV playback support
 - [PGUI](https://github.com/duanebester/pgui) - A GUI app to query and manage Postgres databases built with GPUI
 - [Vleer](https://github.com/vleerapp/vleer) - Vleer is the open-source music player that connects all your sources: local, self-hosted, or cloud, into one seamless experience using the OpenMusic API Spec.
+- [PoE2 Oracle](https://github.com/mttzzz/poe2-oracle) - A free price checker and XP overlay for Path of Exile 2 on Windows, built with GPUI
 
 ## Blog Posts
 
