@@ -66,6 +66,7 @@ fn main() {
 
 ## 项目案例
 
+- [Glim](https://github.com/NeoPanic/Glim) - 使用 Rust 和 GPUI Kit 构建的免费开源 macOS 文件查看器，可在同一工作空间阅读 Markdown、PDF、图片、JSON、CSV 和源代码
 - [zed](https://github.com/zed-industries/zed) - 使用GPUI构建的高性能、多人协作代码编辑器
 - [Waku](https://github.com/egoist/waku) - 使用Rust和GPUI构建、面向本地编码智能体的快速原生桌面应用
 - [Loungy](https://github.com/MatthiasGrandl/Loungy) - 基于GPUI的应用启动器
