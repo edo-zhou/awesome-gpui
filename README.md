@@ -68,6 +68,7 @@ fn main() {
 
 ## Projects
 
+- [Glim](https://github.com/NeoPanic/Glim) - A free, open-source macOS file viewer built with Rust and GPUI Kit for Markdown, PDFs, images, JSON, CSV and source code
 - [zed](https://github.com/zed-industries/zed) - A high-performance, multiplayer code editor built with GPUI
 - [Waku](https://github.com/egoist/waku) - A fast, native desktop app for working with local coding agents, built with Rust and GPUI
 - [Loungy](https://github.com/MatthiasGrandl/Loungy) - An application launcher built with GPUI
