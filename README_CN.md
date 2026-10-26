@@ -116,6 +116,7 @@ gpui_platform = { git = "https://github.com/zed-industries/zed", rev = "56934ec0
 | [PGUI](https://github.com/duanebester/pgui) | PostgreSQL 查询和管理应用。 | 官方 crates.io `gpui 0.2`，另用 `gpui-component 0.5`。 |
 | [Vleer](https://github.com/vleerapp/vleer) | 聚合本地、自托管与云端来源的音乐播放器。 | `gpui-ce` / `gpui_ce_platform` fork，固定到 [`d9623fc`](https://github.com/gpui-ce/gpui-ce/commit/d9623fc2b6678a4d466f9fe2e9d5f69a4ad58de4)。 |
 | [PoE2 Oracle](https://github.com/mttzzz/poe2-oracle) | Windows 平台的免费《流放之路 2》价格查询与经验值 overlay。 | 官方 Zed Git `gpui` 与 `gpui_platform` 均固定到 [`b54cc1d`](https://github.com/zed-industries/zed/commit/b54cc1d0acc8fe3f7581721ee1195516e7581f9d)，package manifest 为 `0.2.2`。 |
+| [SQLly](https://sqlly.app/) | 跨平台 SQL 客户端，提供智能补全与模式智能，支持 PostgreSQL、MySQL、MariaDB、SQL Server、SQLite、DuckDB、Redis 等。 | crates.io 发布版 [`gpui-pre 0.3.9`](https://crates.io/crates/gpui-pre/0.3.9)，另用 `gpui-component 0.7`；闭源。 |
 
 ## 博客文章
 
