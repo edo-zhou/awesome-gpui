@@ -116,6 +116,7 @@ Do not combine these examples in one application unless a facade explicitly sele
 | [PGUI](https://github.com/duanebester/pgui) | PostgreSQL database query and management application. | Official crates.io `gpui 0.2` plus `gpui-component 0.5`. |
 | [Vleer](https://github.com/vleerapp/vleer) | Music player that connects local, self-hosted, and cloud sources. | `gpui-ce` / `gpui_ce_platform` fork at revision [`d9623fc`](https://github.com/gpui-ce/gpui-ce/commit/d9623fc2b6678a4d466f9fe2e9d5f69a4ad58de4). |
 | [PoE2 Oracle](https://github.com/mttzzz/poe2-oracle) | Free price checker and XP overlay for Path of Exile 2 on Windows. | Official Zed Git `gpui` and `gpui_platform`, both pinned to [`b54cc1d`](https://github.com/zed-industries/zed/commit/b54cc1d0acc8fe3f7581721ee1195516e7581f9d); package manifest `0.2.2`. |
+| [SQLly](https://sqlly.app/) | Cross-platform SQL client with IntelliSense and schema intelligence for PostgreSQL, MySQL, MariaDB, SQL Server, SQLite, DuckDB, Redis and more. | Published crates.io [`gpui-pre 0.3.9`](https://crates.io/crates/gpui-pre/0.3.9) plus `gpui-component 0.7`; closed source. |
 
 ## Blog posts
 
